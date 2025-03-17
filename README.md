@@ -11,8 +11,14 @@ Existence precedes essence, and practice precedes theory！
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeBio)   
 
-## 🎍 My Skills (ing)
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,py,pytorch,vscode,github,linux,md,latex)
+## 🎍 My Skills 
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,py,bash,vim,vscode,github,linux,md,latex,ubuntu,windows,stackoverflow,powershell,notion)
+
+## 🎍 Learning
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow)
+
+## 🎍 Dabbled
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,visualstudio,cpp,matlab)
 
 [![Top Langs by commit](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=20&layout=compact&size_weight=0&count_weight=1&custom_title=Most%20Used%20Languages%20By%20Commits)](https://github.com/anuraghazra/github-readme-stats)
 
