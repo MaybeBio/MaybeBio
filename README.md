@@ -12,7 +12,7 @@ Existence precedes essence, and practice precedes theory！
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeBio)   
 
 ## 🎍 My Skills 
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,bash,vim,vscode,github,linux,md,latex,ubuntu,windows,powershell,regex,stackoverflow,notion,discord)
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,bash,vim,vscode,github,linux,md,latex,ubuntu,windows,powershell,stackoverflow,notion)
 
 ## 🎍 Learning
 ![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,py,sklearn,pytorch,tensorflow,docker)
