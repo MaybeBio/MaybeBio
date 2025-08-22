@@ -4,10 +4,10 @@ Half an ACG fan, occasionally watches VTubers, and enjoys listening to instrumen
 - 😄 An existentialist! Live boldly as an existentialist!  
 Existence precedes essence, and practice precedes theory！
 
-- 🔭 I’m currently working on bioinformatics focusing on (Intrinsically Disordered Regions, IDRs) of proteins under 3D genome
+- 🔭 I’m currently working on bioinformatics focusing on (Intrinsically Disordered Regions, IDRs) of proteins related with 3D genome
 - 🌱 I’m currently learning Machine Learning、Deep Learning and more bioinformatics skills
 - 👯 I’m looking to collaborate on Python & R coding
-- 🤔 I’m looking for help with biology in 3D genome and coding in bioinformatics
+- 🤔 I’m looking for help with biology in protein structures and coding in bioinformatics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeBio)   
 
