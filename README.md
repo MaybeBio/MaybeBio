@@ -12,17 +12,17 @@ Existence precedes essence, and practice precedes theory！
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeBio)   
 
 ## 🎍 My Skills 
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,py,bash,vim,vscode,stackoverflow)
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,py,bash,vim)
 
 ## 🎍 Learning
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,github,linux)
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,github,linux,vscode)
 
 ## 🎍 Dabbled
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=visualstudio,c,cpp,matlab,perl,autocad)
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=visualstudio,cpp,matlab,perl,autocad)
 
 [![Top Langs by commit](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=20&layout=compact&size_weight=0&count_weight=1&custom_title=Most%20Used%20Languages%20By%20Commits)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs by size](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs by size](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeBio)    
 ![trophy](https://github-profile-trophy.vercel.app/?username=MaybeBio)
