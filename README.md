@@ -18,7 +18,7 @@ Existence precedes essence, and practice precedes theory！
 ![https://github.com/MaybeBio](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,tensorflow,github,linux,vscode)
 
 ## 🎍 Dabbled
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=visualstudio,cpp,matlab,perl,autocad)
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=visualstudio,cpp,matlab,perl)
 
 [![Top Langs by commit](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=20&layout=compact&size_weight=0&count_weight=1&custom_title=Most%20Used%20Languages%20By%20Commits)](https://github.com/anuraghazra/github-readme-stats)
 
