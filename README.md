@@ -24,8 +24,6 @@ Existence precedes essence, and practice precedes theory！
 
 # [![Top Langs by size](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
 
-![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus)
-
 <!--
 **MaybeBio/MaybeBio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,5 +40,7 @@ Here are some ideas to get you started:
 
 参考
 https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#%E5%A6%82%E4%BD%95%E5%AE%9A%E5%88%B6
+可参考
+https://github.com/Evian-Zhang/Evian-Zhang/blob/master/README.md
 
 -->
