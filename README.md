@@ -10,7 +10,7 @@ Existence precedes essence, and practice precedes theory！
 - 🌱 I’m currently learning Machine Learning、Deep Learning and more programming skills
 - 🤔 I’m looking for help with biology in protein structures and coding in Deep Learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeBio)   
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=MaybeBio&show=discussions_started,discussions_answered,prs_merged,prs_commented,issues_authored,issues_commented)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🎍 My Skills 
 ![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,py,bash,vim,sklearn)
