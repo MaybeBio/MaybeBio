@@ -23,7 +23,7 @@ Existence precedes essence, and practice precedes theory！
 
 [![Top Langs by commit](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=20&layout=compact&size_weight=0&count_weight=1&custom_title=Most%20Used%20Languages%20By%20Commits)](https://github.com/anuraghazra/github-readme-stats)
 
-# [![Top Langs by size](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs by size](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity Graph 📈
 <p align="center">
