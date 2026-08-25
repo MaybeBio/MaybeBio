@@ -30,6 +30,12 @@ Existence precedes essence, and practice precedes theory！
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaybeBio&count_private=true&area=true&days=30&theme=nightowl" width="100%">
 </p>
 
+## Activity Graph 📈
+<p align="center">
+<img src="https://ghstats.dev/api/sparkline?username=MaybeBio&theme=nightowl&days=30&fill=true" width="100%" alt="activity graph">
+</p>
+
+
 ---
 
 <!--
