@@ -25,10 +25,6 @@ Existence precedes essence, and practice precedes theory！
 
 [![Top Langs by size](https://github-readme-stats-kitswas.vercel.app/api/top-langs/?username=MaybeBio&count_private=true&langs_count=10&layout=compact&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20By%20Size)](https://github.com/anuraghazra/github-readme-stats)
 
-## Activity Graph 📈
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaybeBio&count_private=true&area=true&days=30&theme=nightowl" width="100%">
-</p>
 
 ## Activity Graph 📈
 <p align="center">
