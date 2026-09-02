@@ -16,7 +16,7 @@ Existence precedes essence, and practice precedes theory！
 ![https://github.com/MaybeBio](https://skillicons.dev/icons?i=r,py,bash,vim,sklearn)
 
 ## 🎍 Learning
-![https://github.com/MaybeBio](https://skillicons.dev/icons?i=javascript,anaconda,pytorch,github,linux,vscode)
+![https://github.com/MaybeBio](https://skillicons.dev/icons?i=javascript,docker,anaconda,pytorch,github,linux,vscode)
 
 ## 🎍 Dabbled
 ![https://github.com/MaybeBio](https://skillicons.dev/icons?i=visualstudio,cpp,matlab,perl)
